@@ -18,20 +18,5 @@
 * 💬 **Discord:** `ekremali`
 
 ---
-
-### 📈 GitHub Durumu
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ekrem-Ali&show_icons=true&theme=distinguished&hide_border=true" />
-</p>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ekrem-Ali&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekrem-Ali&layout=compact&theme=radical"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ekrem-Ali&label=Profil%20Görüntüleme&color=0e75b6&style=flat" />
-</p>
-
 > [!NOTE]
 > Kendimi geliştirdikçe bu alanı güncelleyeceğim.
